@@ -56,3 +56,10 @@
 	text-align: justify;
 	width: 301px;
 }
+
+.img-stazione img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+	
